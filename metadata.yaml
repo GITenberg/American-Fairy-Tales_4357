@@ -1,5 +1,8 @@
 _repo: American-Fairy-Tales_4357
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -17,6 +20,8 @@ description: Cover; Front Matter; Title Page; Publisher Information; American Fa
   A Bear; The Enchanted Types; The Laughing Hippopotamus; The Magic Bon Bons; The
   Capture Of Father Time; The Wonderful Pump; The Dummy That Lived; The King Of The
   Polar Bears; The Mandarin And The Butterfly; Also Available.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4357#American-Fairy-Tales
 gutenberg_bookshelf:
 - Children's Literature
 - Children's Myths, Fairy Tales, etc.
